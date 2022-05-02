@@ -4,19 +4,19 @@
 
 Run : اجرا 
 
-apt update
+`apt update`
 
-apt upgrade
+`apt upgrade`
 
-pkg install git
+`pkg install git`
 
-pkg Install python
+`pkg Install python`
 
-git clone https://github.com/Mr-Ramtin/SmsBomb3r
+`git clone https://github.com/Mr-Ramtin/SmsBomb3r`
 
-cd SmsBomb3r
+`cd SmsBomb3r`
 
-python smsbomber.py
+`python smsbomber.py`
 
 
 #Haw a Good Day 🖤
