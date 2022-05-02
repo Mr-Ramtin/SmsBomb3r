@@ -12,6 +12,8 @@ Run : اجرا
 
 `pkg Install python`
 
+`pip install colorama`
+
 `git clone https://github.com/Mr-Ramtin/SmsBomb3r`
 
 `cd SmsBomb3r`
